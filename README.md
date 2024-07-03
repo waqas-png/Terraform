@@ -1,4 +1,4 @@
-# Terraform Project
+# Terraform curriculum
 
 ## Table of Contents
 
